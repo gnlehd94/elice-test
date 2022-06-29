@@ -1,0 +1,48 @@
+html {
+  margin-left: 150px;
+}
+
+.title {
+  color: red;
+}
+
+#internet,
+#browser {
+  color: blue;
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+input[type="button"] {
+  border: 1px solid blue;
+}
+
+div > p:hover {
+  border: solid 5px red;
+}
+p {
+  background-color: purple;
+}
+
+#test {
+  background-color: yellow;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: purple;
+}
+
+#box1 {
+  margin-bottom: 10px;
+}
+
+#box2 {
+  margin-top: 30px;
+}
+
+#box3 {
+  border: 3px solid black;
+  padding: 50px;
+}

@@ -1,0 +1,27 @@
+@import url(//font.elice.io/EliceDigitalBaeum.css);
+
+html,
+body {
+  font-family: "Elice Digital Baeum", sans-serif;
+}
+
+footer > p {
+  background-color: lightslategray;
+}
+
+nav {
+  background-color: grey;
+  padding: 5px 5px;
+}
+
+nav > ul > li {
+  display: inline;
+  padding: 5px;
+}
+
+.container {
+  display: grid;
+}
+
+h3 {
+}
